@@ -1,6 +1,6 @@
 	
 Type | Year | Title | Link 
----- | ---- | ----- | ----
+------- | ---- | -------------------------------- | -----
 trans brains | 2020 |A structural magnetic resonance imaging study in therapy naïve transsexual individuals | https://pubmed.ncbi.nlm.nih.gov/32644184/	
 trans brains | 2020 | Brain network interactions in transgender individuals with gender incongruence. | https://www.ncbi.nlm.nih.gov/pubmed/32057995	
 trans brains | 2020 | Data for Functional MRI Connectivity in Transgender People With Gender Incongruence and Cisgender Individuals | https://pubmed.ncbi.nlm.nih.gov/32490070/	
