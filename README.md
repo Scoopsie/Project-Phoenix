@@ -7,6 +7,7 @@
  - Citations and Papers
    - [Autism](research/common/autism.md)
    - [Brains](research/common/brain.md)
+   - [Cancer](research/common/cancer.md)
 
 ## Transition
   - Coming out
