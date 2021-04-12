@@ -5,7 +5,7 @@
  - Common Questions
  - Good Articles
  - Citations and Papers
-   - [Autism](research/common/austism.md)
+   - [Autism](research/common/autism.md)
    - [Brains](research/common/brain.md)
 
 ## Transition
