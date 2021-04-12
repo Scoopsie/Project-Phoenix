@@ -1,12 +1,12 @@
 # Welcome to the Phoenix Project!
 
 
-##Research
+## Research
  - Common Questions
  - Good Articles
  - Citations and Papers
 
-##Transition
+## Transition
   - Coming out
   - For Parents
   - Therapy
@@ -34,7 +34,7 @@
     - Makeup
     - Communities
 
-Health
+## Health
   - Suicide Hotline
   - Mental Health
     - Trans affirming 
@@ -42,7 +42,7 @@ Health
     - Trans affirming
 
 
-Community
+## Community
   - Our Forum
   - Social Media
     - Reddit
@@ -53,7 +53,7 @@ Community
     - Local
   - Trans owned business
   
-Culture
+## Culture
   - History
   - People
     - Art
@@ -62,19 +62,19 @@ Culture
     - Characters
   - 
 
-News
+## News
   - By country
     - By State or territory
 
-Law
+## Law
   - FAQ
   - Legal guidence
   - 
 
-Work
+## Work
 
-Debates
+## Debates
 
 
-Home
-About
+## Home
+## About
