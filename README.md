@@ -32,7 +32,7 @@
     - Voice Training/Surgery
     - Shaving
     - Makeup
-    - Communities 
+    - Communities
 
 ## Health
   - Suicide Hotline
