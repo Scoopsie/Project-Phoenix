@@ -5,6 +5,7 @@
  - Common Questions
  - Good Articles
  - Citations and Papers
+   - [Brains](research/common/brain.md)
 
 ## Transition
   - Coming out
