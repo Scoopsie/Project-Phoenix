@@ -53,9 +53,9 @@ nav li:focus-within a {
   z-index: 1;
 }
 
-.dropdown li:hover > ul,
-.dropdown li:focus-within > ul,
-.dropdown li ul:hover,
+.dropdown li:hover > .dropdown,
+.dropdown li:focus-within > .dropdown,
+.dropdown li .dropdown:hover,
 .dropdown li .dropdown:focus {
    visibility: visible;
    opacity: 1;
