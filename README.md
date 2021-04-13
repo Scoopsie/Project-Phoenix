@@ -1,6 +1,6 @@
 # Welcome to the Phoenix Project!
 
-The goal of this project would be for me is in five parts: 
+The goal of this project comes in five parts: 
 - To provide a place with resources to help people find the basic information that they need, either by referring them to third party sources like such as The Gender Dysphoria Bible, or Transinthesouth, or by creating our own with the goal of helping them understand themselves. 
 - To help give them the resources to transition, and safely once they are sure it the right path for them, which will likely include guides like how to change or delete things on social media, where to get clothes, how to find a therapist, how to shave, ect. 
 - To give people a sense of Trans culture and of our history as a people and expand on the concept of who we are and where we came from. 
