@@ -29,7 +29,7 @@ nav li {
   transition-duration: 0.5s;
 }
 
-ul {
+nav ul {
   list-style: none;
   margin: 0;
   padding-left: 0;
@@ -76,15 +76,15 @@ nav ul li ul li {
   width: 100%;
 }
 
-ul ul ul {
+nav ul ul ul {
   left: 100%;
   top: 0;
 }
 
-ul:before,
-ul:after {
+nav ul:before,
+nav ul:after {
   content: " "; /* 1 */
   display: table; /* 2 */
 }
 
-ul:after { clear: both; }
+nav ul:after { clear: both; }
