@@ -1,0 +1,92 @@
+	
+Type | Year | Title | Link |
+:--- | :--- | :---: | :--- |
+trans brains | 2020 |A structural magnetic resonance imaging study in therapy naïve transsexual individuals | https://pubmed.ncbi.nlm.nih.gov/32644184/	|
+trans brains | 2020 | Brain network interactions in transgender individuals with gender incongruence. | https://www.ncbi.nlm.nih.gov/pubmed/32057995 |
+trans brains | 2020 | Data for Functional MRI Connectivity in Transgender People With Gender Incongruence and Cisgender Individuals | https://pubmed.ncbi.nlm.nih.gov/32490070/	|
+trans brains | 2020 | Neural Correlates of Gender Face Perception in Transgender People | https://pubmed.ncbi.nlm.nih.gov/32503300/ |
+trans brains | 2020 | Neuroanatomy of transgender persons in a Non-Western population and improving reliability in clinical neuroimaging | https://pubmed.ncbi.nlm.nih.gov/32776583/ |
+trans brains | 2020 | Neuroimaging gender dysphoria: a novel psychobiological model | https://pubmed.ncbi.nlm.nih.gov/31134582/	|
+trans brains | 2019 | A New Theory of Gender Dysphoria Incorporating the Distress, Social Behavioral, and Body-Ownership Networks. | https://www.ncbi.nlm.nih.gov/pubmed/31792116 |
+trans brains | 2019 | Neural Systems for Own-body Processing Align with Gender Identity Rather Than Birth-assigned Sex. | https://www.ncbi.nlm.nih.gov/pubmed/31813993 |
+trans brains | 2019 | Neuroimaging Gender Dysphoria: A Novel Psychobiological Model | https://pubmed.ncbi.nlm.nih.gov/31134582/	|
+trans brains | 2019 | Possible Neurobiological Underpinnings of Homosexuality and Gender Dysphoria | https://pubmed.ncbi.nlm.nih.gov/30084980/|
+trans brains | 2019 | What has sex got to do with it? The role of hormones in the transgender brain | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/|
+trans brains | 2018 | Gender incongruence and the brain - Behavioral and neural correlates of voice gender perception in transgender people | https://pubmed.ncbi.nlm.nih.gov/29981752/	|
+trans brains | 2018 | Grey and white matter volumes either in treatment-naïve or hormone-treated transgender women: a voxel-based morphometry study | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768734/ |
+trans brains | 2017 | Altered White Matter and Sensory Response to Bodily Sensation in Female-to-Male Transgender Individuals. | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357597/ |
+trans brains | 2017 | Anatomical and Functional Findings in Female-to-Male Transsexuals: Testing a New Hypothesis | https://pubmed.ncbi.nlm.nih.gov/26637450/ |
+trans brains | 2017 | Brain Functional Connectivity Patterns in Children and Adolescents With Gender Dysphoria: Sex-atypical or Not? | https://pubmed.ncbi.nlm.nih.gov/28972892/ |
+trans brains | 2017 | Brain Sexual Differentiation and Effects of Cross-Sex Hormone Therapy in Transpeople: A Resting-State Functional Magnetic Resonance Study | https://pubmed.ncbi.nlm.nih.gov/29029883/ |
+trans brains | 2017 | Intrinsic Network Connectivity and Own Body Perception in Gender Dysphoria | https://pubmed.ncbi.nlm.nih.gov/27444730/ |
+trans brains | 2017 | Male-to-female Gender Dysphoria: Gender-specific Differences in Resting-State Networks | https://pubmed.ncbi.nlm.nih.gov/28523232/ |
+trans brains | 2016 | A Review of the Status of Brain Structure Research in Transsexualism. | http://www.ncbi.nlm.nih.gov/pubmed/27255307 |
+trans brains | 2016 | Brain activation-based sexual orientation in female-to-male transsexuals. | http://www.ncbi.nlm.nih.gov/pubmed/26581912 |
+trans brains | 2016 | Kisspeptin Expression in the Human Infundibular Nucleus in Relation to Sex, Gender Identity, and Sexual Orientation. | http://www.ncbi.nlm.nih.gov/pubmed/27046106 |
+trans brains | 2016 | Male-typical visuospatial functioning in gynephilic girls with gender dysphoria - organizational and activational effects of testosterone. | http://www.ncbi.nlm.nih.gov/pubmed/27070350 |
+trans brains | 2016 | Neuroimaging studies in people with gender incongruence. | http://www.ncbi.nlm.nih.gov/pubmed/26766406 |
+trans brains | 2016 |Oestrogens Are Not Related to Emotional Processing: A Study of Regional Brain Activity in Female-to-Male Transsexuals Under Gonadal Suppression | https://pubmed.ncbi.nlm.nih.gov/25246514-oestrogens-are-not-related-to-emotional-processing-a-study-of-regional-brain-activity-in-female-to-male-transsexuals-under-gonadal-suppression/	|
+trans brains | 2016 | Transsexualism: a Brain Disorder that Begins to be Known. | http://www.ncbi.nlm.nih.gov/pubmed/27124478 http://aebioetica.org/revistas/2016/27/89/81.pdf |
+trans brains | 2015 | Anatomical and Functional Findings in Female-to-Male Transsexuals: Testing a New Hypothesis. | http://www.ncbi.nlm.nih.gov/pubmed/26637450 |
+trans brains | 2015 | Gender dysphoria "cured" by status epilepticus. | http://www.ncbi.nlm.nih.gov/pubmed/25653301 |
+trans brains | 2015 | Neural Correlates of Psychosis and Gender Dysphoria in an Adult Male. | http://www.ncbi.nlm.nih.gov/pubmed/26597648 |
+trans brains | 2015 | Regional volumes and spatial volumetric distribution of gray matter in the gender dysphoric brain. | http://www.ncbi.nlm.nih.gov/pubmed/25720349 |
+trans brains | 2015 | The transsexual brain - A review of findings on the neural basis of transsexualism. | http://www.ncbi.nlm.nih.gov/pubmed/26429593	|
+trans brains | 2015 | Structural Connectivity Networks of Transgender People | http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585501/ |
+trans brains | 2014 | Cerebral serotonin transporter asymmetry in females, males and male-to-female transsexuals measured by PET in vivo. | http://www.ncbi.nlm.nih.gov/pubmed/23224294 |
+trans brains | 2014 | Hypothalamic response to the chemo-signal androstadienone in gender dysphoric children and adolescents | http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4037295/ |
+trans brains | 2014 | More than Just Two Sexes: The Neural Correlates of Voice Gender Perception in Gender Dysphoria | http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4222943/ |
+trans brains | 2014 | Neural mechanisms underlying sexual arousal in connection with sexual hormone levels: a comparative study of the postoperative male-to-female transsexuals and premenopausal and menopausal women. | http://www.ncbi.nlm.nih.gov/pubmed/24800986 |
+trans brains | 2014 | Neural network of body representation differs between transsexuals and cissexuals. | http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085914 |
+trans brains | 2014 | Sex differences in verbal fluency during adolescence: a functional magnetic resonance imaging study in gender dysphoric and control boys and girls. | http://www.ncbi.nlm.nih.gov/pubmed/23433223 |
+trans brains | 2014 |Structural Connectivity Networks of Transgender People. | http://cercor.oxfordjournals.org/content/early/2014/09/12/cercor.bhu194.long |
+trans brains | 2014 |White matter microstructure in transsexuals and controls investigated by diffusion tensor imaging. | http://www.ncbi.nlm.nih.gov/pubmed/25392513 |
+trans brains | 2013 | Brain Signature Characterizing the Body-Brain-Mind Axis of Transsexuals | http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070808 |
+trans brains | 2013 | Cortical thickness in untreated transsexuals. | http://cercor.oxfordjournals.org/content/23/12/2855.long |
+trans brains | 2013 | Regional grey matter structure differences between transsexuals and healthy controls--a voxel based morphometry study. | http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0083947 |
+trans brains | 2012 | Intrinsic cerebral connectivity analysis in an untreated female-to-male transsexual subject: a first attempt using resting-state fMRI. | http://www.ncbi.nlm.nih.gov/pubmed/22987018 |
+trans brains | 2011 | Galanin neurons in the intermediate nucleus (InM) of the human hypothalamus in relation to sex, age, and gender identity. | http://www.ncbi.nlm.nih.gov/pubmed/21618223 |
+trans brains | 2011 | New MRI Studies Support the Blanchard Typology of Male-to-Female Transsexualism | http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3180619/ |
+trans brains | 2011 | Sex dimorphism of the brain in male-to-female transsexuals. | http://cercor.oxfordjournals.org/content/21/11/2525.long |
+trans brains | 2011 | The microstructure of white matter in male to female transsexuals before cross-sex hormonal treatment. A DTI study | http://www.ncbi.nlm.nih.gov/pubmed/21195418m |
+trans brains | 2011 | White matter microstructure in female to male transsexuals before cross-sex hormonal treatment. A diffusion tensor imaging study. | http://www.ncbi.nlm.nih.gov/pubmed/20562024 http://portal.uned.es/pls/portal/url/ITEM/9BD9DB38147D0E6CE040660A347056EE |
+trans brains | 2010 | Neuroimaging differences in spatial cognition between men and male-to-female transsexuals before and during hormone therapy. | http://www.ncbi.nlm.nih.gov/pubmed/19751389 |
+trans brains | 2010 | The microstructure of white matter in male to female transsexuals before cross-sex hormonal treatment. A DTI study. | http://www.ncbi.nlm.nih.gov/pubmed/21195418	http://portal.uned.es/pls/portal/url/ITEM/9BD9DB38147D0E6CE040660A347056EE |
+trans brains | 2009 | Regional gray matter variation in male-to-female transsexualism. | http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754583/ |
+trans brains | 2009 | Specific cerebral activation due to visual erotic stimuli in male-to-female transsexuals compared with male and female controls: an fMRI study | http://www.ncbi.nlm.nih.gov/pubmed/18761592 |
+trans brains | 2008 | A sex difference in the hypothalamic uncinate nucleus: relationship to gender identity | http://brain.oxfordjournals.org/content/131/12/3132.long |
+trans brains | 2008 | Male-to-female transsexuals show sex-atypical hypothalamus activation when smelling odorous steroids. | http://cercor.oxfordjournals.org/content/18/8/1900.long |
+trans brains | 2008 | Phantom Penises In Transsexuals | http://www.ingentaconnect.com/content/imp/jcs/2008/00000015/00000001/art00001?token=004216a87d1b89573d2570257044234a6c7c406a765b3a637c4e724725d1b89392 |
+trans brains | 2000	| Male-to-Female Transsexuals Have Female Neuron Numbers in a Limbic Nucleus | http://press.endocrine.org/doi/full/10.1210/jcem.85.5.6564 |
+trans brains | 1995	| A sex difference in the human brain and its relation to transsexuality | http://www.nature.com/nature/journal/v378/n6552/abs/378068a0.html	http://www.shb-info.org/sitebuildercontent/sitebuilderfiles/brainsex.pdf |
+trans brains | 1991	| Anatomic variation of the corpus callosum in persons with gender dysphoria. | http://www.ncbi.nlm.nih.gov/pubmed/1953331 |
+surgery and the brain | 2017 | fMRI after Phalloplasty with Nerve Anastomosis in a Trans-Man Patient. | https://www.ncbi.nlm.nih.gov/pubmed/28740768 |
+surgery and the brain | 2014 | Does sex reassignment surgery induce cerebral modifications in MTF transsexuals? | http://www.ncbi.nlm.nih.gov/pubmed/24433562 |
+hrt and the brain | 2019 | A Comparative Study of White Matter Volume Between Postoperative Female-To-Male Transsexuals and Healthy Female | https://pubmed.ncbi.nlm.nih.gov/30679768/ |
+hrt and the brain | 2019 | Cross Sex Hormone Treatment Is Linked With a Reversal of Cerebral Patterns Associated With Gender Dysphoria to the Baseline of Cisgender Controls | https://pubmed.ncbi.nlm.nih.gov/30991464/ |
+hrt and the brain | 2019 | What has sex got to do with it? The role of hormones in the transgender brain | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235900/ |
+hrt and the brain | 2018 | Effects of Testosterone Treatment on Hypothalamic Neuroplasticity in Female-To-Male Transgender Individuals | https://pubmed.ncbi.nlm.nih.gov/28819863/ |
+hrt and the brain | 2017 | A Structural Magnetic Resonance Imaging Study in Transgender Persons on Cross-Sex Hormone Therapy | https://pubmed.ncbi.nlm.nih.gov/27490457/ |
+hrt and the brain | 2017 | Brain Maturation, Cognition and Voice Pattern in a Gender Dysphoria Case Under Pubertal Suppression | https://pubmed.ncbi.nlm.nih.gov/29184488/ |
+hrt and the brain | 2017 | Brain Sexual Differentiation and Effects of Cross-Sex Hormone Therapy in Transpeople: A Resting-State Functional Magnetic Resonance Study | https://pubmed.ncbi.nlm.nih.gov/29029883/ |
+hrt and the brain | 2017 | Gender-affirming Hormone Treatment - A Unique Approach to Study the Effects of Sex Hormones on Brain Structure and Function | https://pubmed.ncbi.nlm.nih.gov/32438011/ |
+hrt and the brain | 2017 | Testosterone Effects on the Brain in Transgender Men | https://pubmed.ncbi.nlm.nih.gov/28334217/ |
+hrt and the brain | 2017 | Effects of Sex Hormone Treatment on White Matter Microstructure in Individuals With Gender Dysphoria | https://pubmed.ncbi.nlm.nih.gov/28196668/ |
+hrt and the brain | 2016 | Gender Transition Affects Neural Correlates of Empathy: A Resting State Functional Connectivity Study With Ultra High-Field 7T MR Imaging | https://pubmed.ncbi.nlm.nih.gov/27236082/ |
+hrt and the brain | 2016 | Male-typical visuospatial functioning in gynephilic girls with gender dysphoria - organizational and activational effects of testosterone. | http://www.ncbi.nlm.nih.gov/pubmed/27070350 |
+hrt and the brain | 2016 | Neural Activation-Based Sexual Orientation and Its Correlation With Free Testosterone Level in Postoperative Female-To-Male Transsexuals: Preliminary Study With 3.0-T fMRI | https://pubmed.ncbi.nlm.nih.gov/26319407/ |
+hrt and the brain | 2016 | Reduced serum concentrations of brain-derived neurotrophic factor (BDNF) in transsexual Brazilian men. | http://www.ncbi.nlm.nih.gov/pubmed/27473941 |
+hrt and the brain | 2016 | Subcortical Gray Matter Changes in Transgender Subjects After Long-Term Cross-Sex Hormone Administration | https://pubmed.ncbi.nlm.nih.gov/27744092/ |
+hrt and the brain | 2015 | High-Dose Testosterone Treatment Increases Serotonin Transporter Binding in Transgender People | http://www.ncbi.nlm.nih.gov/pubmed/25497691 |
+hrt and the brain | 2015 | Neural activation-based sexual orientation and its correlation with free testosterone level in postoperative female-to-male transsexuals: preliminary study with 3.0-T fMRI. | http://www.ncbi.nlm.nih.gov/pubmed/26319407 |
+hrt and the brain | 2015 | Puberty suppression and executive functioning: An fMRI-study in adolescents with gender dysphoria. | http://www.ncbi.nlm.nih.gov/pubmed/25837854 |
+hrt and the brain | 2014 | Cross-sex hormone treatment in male-to-female transsexual persons reduces serum brain-derived neurotrophic factor (BDNF). | http://www.ncbi.nlm.nih.gov/pubmed/25498415 |
+hrt and the brain | 2014 |Effects of Cross-Sex Hormone Treatment on Cortical Thickness in Transsexual Individuals. | http://www.ncbi.nlm.nih.gov/pubmed/24617977	http://portal.uned.es/pls/portal/url/ITEM/F611EC0C59313956E040660A337016AB |
+hrt and the brain | 2014 | Oestrogens are Not Related to Emotional Processing: a Study of Regional Brain Activity in Female-to-Male Transsexuals Under Gonadal Suppression. | http://www.ncbi.nlm.nih.gov/pubmed/25246514 |
+hrt and the brain | 2014 | (Patho)physiology of cross-sex hormone administration to transsexual people: the potential impact of male-female genetic differences. | http://www.ncbi.nlm.nih.gov/pubmed/25495275 |
+hrt and the brain | 2012 | Effects of androgenization on the white matter microstructure of female-to-male transsexuals. A diffusion tensor imaging study. | http://www.ncbi.nlm.nih.gov/pubmed/22260939, http://portal.uned.es/pls/portal/url/ITEM/E2B953F290DB0E46E040660A3470328D |
+hrt and the brain | 2010 |Cortical activation during mental rotation in male-to-female and female-to-male transsexuals under hormonal treatment. | http://www.ncbi.nlm.nih.gov/pubmed/20219285	http://portal.uned.es/pls/portal/url/ITEM/9BD9DC7D2D7DD1EEE040660A33707754 |
+hrt and the brain | 2006 |Changing your sex changes your brain: influences of testosterone and estrogen on adult human brain structure | www.eje-online.org/content/155/suppl_1/S107.full |
+hrt and the brain | 2005 | Handedness, functional cerebral hemispheric lateralization, and cognition in male-to-female transsexuals receiving cross-sex hormone treatment. | http://www.ncbi.nlm.nih.gov/pubmed/15803250 |
+hrt and the brain | 2001 | Sex differences in androgen receptors of the human mamillary bodies are related to endocrine status rather than to sexual orientation or transsexuality. | http://www.ncbi.nlm.nih.gov/pubmed/11158052 |
+BDNF | 2017	| Serum Concentrations of Brain-Derived Neurotrophic Factor in Patients Diagnosed With Gender Dysphoria Undergoing Sex Reassignment Surgery | https://pubmed.ncbi.nlm.nih.gov/28403322/ |
