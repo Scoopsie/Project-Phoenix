@@ -12,6 +12,7 @@
    - [Sociodemographics](research/citations/demography.md)
    - [Eating Disorders](research/citations/eating-disorder.md)
    - [Etiology](research/citations/causes.md)
+   - [Fertility](research/citations/fertility.md)
    - 
 
 ## Transition
