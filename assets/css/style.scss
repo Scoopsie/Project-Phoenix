@@ -101,11 +101,12 @@ $columns: 12; // number of columns in the grid system
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   border-radius: 10px;
+  padding: 1rem;
 }
 
 .menu-con-mega-header{
   text-align: left;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
 }
 
 nav {
