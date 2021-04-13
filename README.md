@@ -5,9 +5,9 @@
  - Common Questions
  - Good Articles
  - Citations and Papers
-   - [Autism](research/common/autism.md)
-   - [Brains](research/common/brain.md)
-   - [Cancer](research/common/cancer.md)
+   - [Autism](research/citations/autism.md)
+   - [Brains](research/citations/brain.md)
+   - [Cancer Screening](research/citations/screening.md)
 
 ## Transition
   - Coming out
@@ -77,5 +77,3 @@
 ## Work
 
 ## Debates
-
-## About
