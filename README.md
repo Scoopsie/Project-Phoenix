@@ -10,6 +10,7 @@
    - [Cancer Screening](research/citations/screening.md)
    - [Cancer](research/citations/cancer.md)
    - [Sociodemographics](research/citations/demography.md)
+   - [Eating Disorders](research/citations/eating-disorder.md)
 
 ## Transition
   - Coming out
