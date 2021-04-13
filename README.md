@@ -13,6 +13,7 @@
    - [Eating Disorders](research/citations/eating-disorder.md)
    - [Etiology](research/citations/causes.md)
    - [Fertility](research/citations/fertility.md)
+   - [Genetics](research/citations/genetics.md)
    - 
 
 ## Transition
