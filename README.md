@@ -19,6 +19,8 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Fertility](research/citations/fertility.md)
    - [Genetics](research/citations/genetics.md)
    - [Gender Identity](research/citations/identity.md)
+   - [Gynaecology](research/citations/gynaecology.md)
+   - [Healthcare](research/citations/healthcare.md)
 
 ## Transition
   - Coming out
