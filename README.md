@@ -17,58 +17,79 @@ Right now, we are still very much in the early stages of gathering and inputing 
  - Good Articles
  - Books
  - Studies
- <li>
   <details>
    <summary>Citations and Papers</summary>
-
-   <details>
-     <h4><summary><h4>Physical Health</summary></h4>
+   <blockquote>
+   <details> 
+     <summary> 
+       Physical Health
+     </summary>
+     <blockquote>
      <ul>
-       <li>[Cancer Screening](research/citations/screening.md)</li>
-       <li>[Cancer](research/citations/cancer.md)</li>
-       <li>[Fertility](research/citations/fertility.md)</li>
-       <li>[Genetics](research/citations/genetics.md)</li>
-       <li>[Gynaecology](research/citations/gynaecology.md)</li>
-       <li>[HIV](research/citations/hiv.md)</li>
-       <li>[Intersex Conditions](research/citations/intersex.md)</li>
-       <li>[Other Medical Conditions](research/citations/other-medical.md)</li>
-       <li>[Twins & Siblings](research/citations/siblings.md)</li>
+       <li><a href="research/citations/screening.md">Cancer Screening</a></li>
+       <li><a href="research/citations/cancer.md">Cancer</a></li>
+       <li><a href="research/citations/fertility.md">Fertility</a></li>
+       <li><a href="research/citations/genetics.md">Genetics</a></li>
+       <li><a href="research/citations/gynaecology.md">Gynaecology</a></li>
+       <li><a href="research/citations/hiv.md">HIV</a></li>
+       <li><a href="research/citations/intersex.md">Intersex Conditions</li>
+       <li><a href="research/citations/other-medical.md">Other Medical Conditions</a></li>
+       <li><a href="research/citations/siblings.md">Twins & Siblings</a></li>
      </ul>
    </details>
 
-    #### Mental Health
-    - [Autism](research/citations/autism.md)
-    - [Brains](research/citations/brains.md)
-    - [Eating Disorders](research/citations/eating-disorder.md)
-    - [Gneral Mental Health](research/citations/mental-health.md)
-    - [Sexuality](research/citations/sexuality.md)
-    - [Substance Abuse & Addiction](research/citations/addiction.md)
-    - [Suicide](research/citations/suicide.md)
+   <details> 
+     <summary>Mental Health</summary>
+     <blockquote>
+     <ul>
+       <li><a href="research/citations/autism.md">Autism</a></li>
+       <li><a href="research/citations/brains.md">Brains</a></li>
+       <li><a href="research/citations/eating-disorder.md">Eating Disorders</a></li>
+       <li><a href="research/citations/mental-health.md">General Mental Healt</a></li>
+       <li><a href="research/citations/sexuality.md">Sexuality</a></li>
+       <li><a href="research/citations/addiction.md">Substance Abuse & Addiction</a></li>
+       <li><a href="research/citations/suicide.md">Suicide</a></li>
+     </ul>
+   </details>
 
-    #### Transition
-    - [Gender Identity](research/citations/identity.md)
-    - [HRT](research/citations/hrt.md)
-    - [Minors](research/citations/minors.md)
-    - [Older Adults](research/citations/seniors.md)
-    - [Research](research/citations/research.md)
-    - [Surgery](research/citations/surgery.md)
-    - [Voice](research/citations/voice.md)
+   <details> 
+     <summary>Transition</summary>
+     <blockquote>
+     <ul>
+       <li><a href="research/citations/identity.md">Gender Identity</a></li>
+       <li><a href="research/citations/hrt.md">HRT</a></li>
+       <li><a href="research/citations/minors.md">Minors</a></li>
+       <li><a href="research/citations/seniors.md">Older Adults</a></li>
+       <li><a href="research/citations/research.md">Research</a></li>
+       <li><a href="research/citations/surgery.md">Surgery</a></li>
+       <li><a href="research/citations/voice.md">Voice</a></li>
+     </ul>
+   </details> 
+ 
+   <details> 
+     <summary>Living</summary>
+     <blockquote>
+     <ul>
+       <li><a href="research/citations/causes.md">Etiology</a></li>
+       <li><a href="research/citations/healthcare.md">Healthcare</a></li>
+       <li><a href="research/citations/legislation.md">Legislation</a></li>
+       <li><a href="research/citations/military.md">Military</a></li>
+       <li><a href="research/citations/prisons.md">Prisons</a></li>
+       <li><a href="research/citations/quality-of-life.md">Quality of Life</a></li>
+       <li><a href="research/citations/demography.md">Sociodemographics</a></li>
+       <li><a href="research/citations/sports.md">Sports</a></li>
+       <li><a href="research/citations/transphobia.md">Transphobia & Discrimination</a></li>
+     </ul>
+   </details>
 
-    #### Living
-    - [Etiology](research/citations/causes.md)
-    - [Healthcare](research/citations/healthcare.md)
-    - [Legislation](research/citations/legislation.md)
-    - [Military](research/citations/military.md)
-    - [Prisons](research/citations/prisons.md)
-    - [Quality of Life](research/citations/quality-of-life.md)
-    - [Sociodemographics](research/citations/demography.md)
-    - [Sports](research/citations/sports.md)
-    - [Transphobia & Discrimination](research/citations/transphobia.md)
-
-    #### Other
-    - [Other](research/citations/other.md)
-  </details>
- </li>
+   <details> 
+     <summary>Other</summary>
+     <blockquote>
+     <ul>
+      <li><a href="research/citations/other.md">Other</a></li>
+     </ul>
+   </details>
+ </details>
 
 
 
