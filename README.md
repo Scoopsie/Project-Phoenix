@@ -1,8 +1,15 @@
 # Welcome to the Phoenix Project!
 
-The basic goal of this project is to create one, definitive place, that people can can use to find and submit resources for the transgender community. 
+The goal of this project would be for me is in five parts: 
+- To provide a place with resources to help people find the basic information that they need, either by referring them to third party sources like such as The Gender Dysphoria Bible, or the reddit r/Transsurgeries wiki, or by creating our own with the goal of helping them understand themselves. 
+- To help give them the resources to transition, and safely once they are sure it the right path for them, which will likely include guides like how to change or delete things on social media, where to get clothes, how to find a therapist, how to shave, ect. 
+- To give people a sense of Trans culture and of our history as a people and expand on the concept of who we are and where we came from. 
+- To provide scientific backing and educational resources to help people defend themselves from transphobia. To route people into verified safe trans communities both on reddit and elsewhere that they can find support and camaraderie. 
+- (Stretch) To provide ways for trans people to navigate the general world safely with things like company policy of work places they might be looking into, or places where travel hasn't been as safe.
 
-Right now, we are still very much in the early stages of gatherig and inputing information and resources. Feel free to use the "Issues" section to submit missing resources, create a pull request to add content, or contact us if you would like to be part of team.
+The basic goal of this project is to create one, 
+
+Right now, we are still very much in the early stages of gathering and inputing information and resources. Feel free to use the "Issues" section to submit missing resources, create a pull request to add content, or contact us if you would like to be part of team.
 
 
 ## Research
