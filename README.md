@@ -27,6 +27,7 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Legislation](research/citations/legislation.md)
    - [Mental Health](research/citations/mental-health.md)
    - [Military](research/citations/military.md)
+   - [Minors](research/citations/minors.md)
 
 ## Transition
   - Coming out
