@@ -1,18 +1,19 @@
-<div class="navbar">
-  <a href="{{site.baseurl}}/">Home</a> |
-  <a href="{{site.baseurl}}/">About</a> |
-  <div class="dropdown">
-    <button class="dropbtn">
-      Research
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <details>
-        <summary> Citations & Papers </Summary>
-        <a href="{{site.baseurl}}/research/citations/autism.html">Autism</a>
-        <a href="{{site.baseurl}}/research/citations/brains.html">Brains</a>
-        <a href="{{site.baseurl}}/research/citations/screening.html">Cancer Screening</a>
-      </details>
-    </div>
-  </div> 
-</div>
+<nav role="navigation">
+  <ul>
+    <li><a href="{{site.baseurl}}/">Home</a></li>
+    <li><a href="{{site.baseurl}}/">About</a></li>
+    <li aria-haspopup="true">
+      <a href="#">Research</a>
+      <ul class="dropdown" aria-label="submenu">
+        <li aria-haspopup="true">
+          <a href="#">Citations & Paper</a>
+          <ul class="dropdown" aria-label="submenu">
+            <li><a href="{{site.baseurl}}/research/citations/autism.html">Autism</a></li>
+            <li><a href="{{site.baseurl}}/research/citations/brains.html">Brains</a></li>
+            <li><a href="{{site.baseurl}}/research/citations/screening.html">Cancer Screening</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
