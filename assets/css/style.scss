@@ -8,6 +8,40 @@ body {
     border: none;
     margin: 0px;
 }
+/* grid styles */
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+}
+
+$columns: 12; // number of columns in the grid system
+
+.col {
+  background-color: pink;
+  border: LavenderBlush 2px solid;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+@for $width from 1 through $columns {
+  .col-#{$width} {
+    flex-basis: $width / $columns * 100%;
+  }  
+}
+
+@media (min-width: 576px) {
+	.content {
+		--width: 6;
+	}
+}
+
+@media (min-width: 768px) {
+	.content {
+		--width: 8;
+	}
+}
 
 /* content */
 #main_content_wrap {
@@ -49,12 +83,11 @@ body {
 .menu-con-btn {
     font-family: Roboto-Regular;
     font-size: 16px;
-    line-height: 60px;
+    line-height: 30px;
     position: relative;
     top: 0;
     display: inline-block;
     width: auto;
-    height: 60px;
     padding-right: 12px;
     padding-left: 12px;
     color: #fff;
