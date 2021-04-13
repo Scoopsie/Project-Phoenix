@@ -21,6 +21,12 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Gender Identity](research/citations/identity.md)
    - [Gynaecology](research/citations/gynaecology.md)
    - [Healthcare](research/citations/healthcare.md)
+   - [HIV](research/citations/hiv.md)
+   - [HRT](research/citations/hrt.md)
+   - [Intersex Conditions](research/citations/intersex.md)
+   - [Legislation](research/citations/legislation.md)
+   - [Mental Health](research/citations/mental-health.md)
+   - [Military](research/citations/military.md)
 
 ## Transition
   - Coming out
