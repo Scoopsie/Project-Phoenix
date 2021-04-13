@@ -6,7 +6,7 @@
  - Good Articles
  - Citations and Papers
    - [Autism](research/citations/autism.md)
-   - [Brains](research/citations/brain.md)
+   - [Brains](research/citations/brains.md)
    - [Cancer Screening](research/citations/screening.md)
 
 ## Transition
