@@ -18,38 +18,47 @@ Right now, we are still very much in the early stages of gathering and inputing 
  - Books
  - Studies
  - Citations and Papers
-   - [Autism](research/citations/autism.md)
-   - [Brains](research/citations/brains.md)
+   ### Physical Health
    - [Cancer Screening](research/citations/screening.md)
    - [Cancer](research/citations/cancer.md)
-   - [Sociodemographics](research/citations/demography.md)
-   - [Eating Disorders](research/citations/eating-disorder.md)
-   - [Etiology](research/citations/causes.md)
    - [Fertility](research/citations/fertility.md)
    - [Genetics](research/citations/genetics.md)
-   - [Gender Identity](research/citations/identity.md)
    - [Gynaecology](research/citations/gynaecology.md)
-   - [Healthcare](research/citations/healthcare.md)
    - [HIV](research/citations/hiv.md)
-   - [HRT](research/citations/hrt.md)
    - [Intersex Conditions](research/citations/intersex.md)
-   - [Legislation](research/citations/legislation.md)
-   - [Mental Health](research/citations/mental-health.md)
-   - [Military](research/citations/military.md)
-   - [Minors](research/citations/minors.md)
-   - [Older Adults](research/citations/seniors.md)
    - [Other Medical Conditions](research/citations/other-medical.md)
-   - [Prisons](research/citations/prisons.md)
-   - [Quality of Life](research/citations/quality-of-life.md)
-   - [Research](research/citations/research.md)
+   - [Twins & Siblings](research/citations/siblings.md)
+   - 
+   ### Mental Health
+   - [Autism](research/citations/autism.md)
+   - [Brains](research/citations/brains.md)
+   - [Eating Disorders](research/citations/eating-disorder.md)
+   - [Gneral Mental Health](research/citations/mental-health.md)
    - [Sexuality](research/citations/sexuality.md)
-   - [Sports](research/citations/sports.md)
    - [Substance Abuse & Addiction](research/citations/addiction.md)
    - [Suicide](research/citations/suicide.md)
+   - 
+   ### Transition
+   - [Gender Identity](research/citations/identity.md)
+   - [HRT](research/citations/hrt.md)
+   - [Minors](research/citations/minors.md)
+   - [Older Adults](research/citations/seniors.md)
+   - [Research](research/citations/research.md)
    - [Surgery](research/citations/surgery.md)
-   - [Transphobia & Discrimination](research/citations/transphobia.md)
-   - [Twins & Siblings](research/citations/siblings.md)
    - [Voice](research/citations/voice.md)
+   - 
+   ### Living
+   - [Etiology](research/citations/causes.md)
+   - [Healthcare](research/citations/healthcare.md)
+   - [Legislation](research/citations/legislation.md)
+   - [Military](research/citations/military.md)
+   - [Prisons](research/citations/prisons.md)
+   - [Quality of Life](research/citations/quality-of-life.md)
+   - [Sociodemographics](research/citations/demography.md)
+   - [Sports](research/citations/sports.md)
+   - [Transphobia & Discrimination](research/citations/transphobia.md)
+   - 
+   ### Other
    - [Other](research/citations/other.md)
 
 
