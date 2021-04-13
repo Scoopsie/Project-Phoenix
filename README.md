@@ -78,6 +78,4 @@
 
 ## Debates
 
-
-## Home
 ## About
