@@ -1,0 +1,15 @@
+| Year | Title                                                                                                                               | Link                                                     |
+|------|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
+| 2020 | "My Voice Is My Identity": The Role of Voice for Trans Women's Participation in Sport                                               | https://pubmed.ncbi.nlm.nih.gov/30055980/                |
+| 2020 | Athletic Trainers' Competence, Education, and Perceptions Regarding Transgender Student-Athlete Patient Care                        | https://pubmed.ncbi.nlm.nih.gov/32905594/                |
+| 2018 | Care of the Transgender Athlete                                                                                                     | https://pubmed.ncbi.nlm.nih.gov/30531457/                |
+| 2018 | Development of an Instrument to Assess Athletic Trainers' Attitudes Toward Transgender Patients                                     | https://pubmed.ncbi.nlm.nih.gov/29667845/                |
+| 2018 | The Fluidity of Gender and Implications for the Biology of Inclusion for Transgender and Intersex Athletes                          | https://pubmed.ncbi.nlm.nih.gov/30531465/                |
+| 2018 | The trailblazer                                                                                                                     | https://science.sciencemag.org/content/361/6400/322.long |
+| 2017 | Sport and Transgender People: A Systematic Review of the Literature Relating to Sport Participation and Competitive Sport Policies. | https://www.ncbi.nlm.nih.gov/pubmed/27699698             |
+| 2017 | Transgender Athletes: How Can They Be Accommodated?                                                                                 | https://pubmed.ncbi.nlm.nih.gov/28067734/                |
+| 2016 | A curious case of stress fracture in a transsexual athlete.                                                                         | http://www.ncbi.nlm.nih.gov/pubmed/27033288              |
+| 2016 | Beyond Fairness: The Biology of Inclusion for Transgender and Intersex Athletes                                                     | https://pubmed.ncbi.nlm.nih.gov/27841808/                |
+| 2016 | What Do We Do About Women Athletes With Testes?                                                                                     | https://pubmed.ncbi.nlm.nih.gov/26545708/                |
+| 2008 | Olympic sports and transsexuals.                                                                                                    | http://www.asiaandro.com/archive/1008-682X/10/427.htm    |
+| 2004 | Transsexuals and competitive sports.                                                                                                | http://eje-online.org/content/151/4/425.abstract         |
