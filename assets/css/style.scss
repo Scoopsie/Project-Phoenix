@@ -97,6 +97,17 @@ $columns: 12; // number of columns in the grid system
     transition: all .1s ease-in-out 0s;
 }
 
+.menu-con-mega {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.menu-con-mega-header{
+  text-align: left;
+  border-bottom: 1px solid black;
+}
+
 nav {
   font-family: Arial;
 }
