@@ -11,6 +11,8 @@
    - [Cancer](research/citations/cancer.md)
    - [Sociodemographics](research/citations/demography.md)
    - [Eating Disorders](research/citations/eating-disorder.md)
+   - [Etiology](research/citations/causes.md)
+   - 
 
 ## Transition
   - Coming out
