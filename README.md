@@ -43,7 +43,7 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Twins & Siblings](research/citations/siblings.md)
    - [Voice](research/citations/voice.md)
    - [Other](research/citations/other.md)
-
+</details>
 
 
 
