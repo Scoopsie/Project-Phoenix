@@ -15,6 +15,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
 ## Research
  - Common Questions
  - Good Articles
+ - Books
+ - Studies
  - Citations and Papers
    - [Autism](research/citations/autism.md)
    - [Brains](research/citations/brains.md)
