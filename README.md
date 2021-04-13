@@ -17,50 +17,58 @@ Right now, we are still very much in the early stages of gathering and inputing 
  - Good Articles
  - Books
  - Studies
- - Citations and Papers
- 
-   #### Physical Health
-   - [Cancer Screening](research/citations/screening.md)
-   - [Cancer](research/citations/cancer.md)
-   - [Fertility](research/citations/fertility.md)
-   - [Genetics](research/citations/genetics.md)
-   - [Gynaecology](research/citations/gynaecology.md)
-   - [HIV](research/citations/hiv.md)
-   - [Intersex Conditions](research/citations/intersex.md)
-   - [Other Medical Conditions](research/citations/other-medical.md)
-   - [Twins & Siblings](research/citations/siblings.md)
-   
-   #### Mental Health
-   - [Autism](research/citations/autism.md)
-   - [Brains](research/citations/brains.md)
-   - [Eating Disorders](research/citations/eating-disorder.md)
-   - [Gneral Mental Health](research/citations/mental-health.md)
-   - [Sexuality](research/citations/sexuality.md)
-   - [Substance Abuse & Addiction](research/citations/addiction.md)
-   - [Suicide](research/citations/suicide.md)
-   
-   #### Transition
-   - [Gender Identity](research/citations/identity.md)
-   - [HRT](research/citations/hrt.md)
-   - [Minors](research/citations/minors.md)
-   - [Older Adults](research/citations/seniors.md)
-   - [Research](research/citations/research.md)
-   - [Surgery](research/citations/surgery.md)
-   - [Voice](research/citations/voice.md)
-   
-   #### Living
-   - [Etiology](research/citations/causes.md)
-   - [Healthcare](research/citations/healthcare.md)
-   - [Legislation](research/citations/legislation.md)
-   - [Military](research/citations/military.md)
-   - [Prisons](research/citations/prisons.md)
-   - [Quality of Life](research/citations/quality-of-life.md)
-   - [Sociodemographics](research/citations/demography.md)
-   - [Sports](research/citations/sports.md)
-   - [Transphobia & Discrimination](research/citations/transphobia.md)
-   
-   #### Other
-   - [Other](research/citations/other.md)
+ <li>
+  <details>
+   <summary>Citations and Papers</summary>
+
+   <details>
+     <h4><summary><h4>Physical Health</summary></h4>
+     <ul>
+       <li>[Cancer Screening](research/citations/screening.md)</li>
+       <li>[Cancer](research/citations/cancer.md)</li>
+       <li>[Fertility](research/citations/fertility.md)</li>
+       <li>[Genetics](research/citations/genetics.md)</li>
+       <li>[Gynaecology](research/citations/gynaecology.md)</li>
+       <li>[HIV](research/citations/hiv.md)</li>
+       <li>[Intersex Conditions](research/citations/intersex.md)</li>
+       <li>[Other Medical Conditions](research/citations/other-medical.md)</li>
+       <li>[Twins & Siblings](research/citations/siblings.md)</li>
+     </ul>
+   </details>
+
+    #### Mental Health
+    - [Autism](research/citations/autism.md)
+    - [Brains](research/citations/brains.md)
+    - [Eating Disorders](research/citations/eating-disorder.md)
+    - [Gneral Mental Health](research/citations/mental-health.md)
+    - [Sexuality](research/citations/sexuality.md)
+    - [Substance Abuse & Addiction](research/citations/addiction.md)
+    - [Suicide](research/citations/suicide.md)
+
+    #### Transition
+    - [Gender Identity](research/citations/identity.md)
+    - [HRT](research/citations/hrt.md)
+    - [Minors](research/citations/minors.md)
+    - [Older Adults](research/citations/seniors.md)
+    - [Research](research/citations/research.md)
+    - [Surgery](research/citations/surgery.md)
+    - [Voice](research/citations/voice.md)
+
+    #### Living
+    - [Etiology](research/citations/causes.md)
+    - [Healthcare](research/citations/healthcare.md)
+    - [Legislation](research/citations/legislation.md)
+    - [Military](research/citations/military.md)
+    - [Prisons](research/citations/prisons.md)
+    - [Quality of Life](research/citations/quality-of-life.md)
+    - [Sociodemographics](research/citations/demography.md)
+    - [Sports](research/citations/sports.md)
+    - [Transphobia & Discrimination](research/citations/transphobia.md)
+
+    #### Other
+    - [Other](research/citations/other.md)
+  </details>
+ </li>
 
 
 
