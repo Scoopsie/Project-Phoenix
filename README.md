@@ -38,12 +38,10 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Substance Abuse & Addiction](research/citations/addiction.md)
    - [Suicide](research/citations/suicide.md)
    - [Surgery](research/citations/surgery.md)
-   - [Sports](research/citations/sports.md)
    - [Transphobia & Discrimination](research/citations/transphobia.md)
    - [Twins & Siblings](research/citations/siblings.md)
    - [Voice](research/citations/voice.md)
    - [Other](research/citations/other.md)
-</details>
 
 
 
