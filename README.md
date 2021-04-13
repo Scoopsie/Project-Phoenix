@@ -1,5 +1,9 @@
 # Welcome to the Phoenix Project!
 
+The basic goal of this project is to create one, definitive place, that people can can use to find and submit resources for the transgender community. 
+
+Right now, we are still very much in the early stages of gatherig and inputing information and resources. Feel free to use the "Issues" section to submit missing resources, create a pull request to add content, or contact us if you would like to be part of team.
+
 
 ## Research
  - Common Questions
