@@ -28,6 +28,10 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Mental Health](research/citations/mental-health.md)
    - [Military](research/citations/military.md)
    - [Minors](research/citations/minors.md)
+   - [Older Adults](research/citations/seniors.md)
+   - [Prisons](research/citations/prisons.md)
+   - [Quality of Life](research/citations/quality-of-life.md)
+   - [Research](research/citations/research.md)
 
 ## Transition
   - Coming out
