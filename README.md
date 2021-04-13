@@ -29,9 +29,23 @@ Right now, we are still very much in the early stages of gatherig and inputing i
    - [Military](research/citations/military.md)
    - [Minors](research/citations/minors.md)
    - [Older Adults](research/citations/seniors.md)
+   - [Other Medical Conditions](research/citations/other-medical.md)
    - [Prisons](research/citations/prisons.md)
    - [Quality of Life](research/citations/quality-of-life.md)
    - [Research](research/citations/research.md)
+   - [Sexuality](research/citations/sexuality.md)
+   - [Sports](research/citations/sports.md)
+   - [Substance Abuse & Addiction](research/citations/addiction.md)
+   - [Suicide](research/citations/suicide.md)
+   - [Surgery](research/citations/surgery.md)
+   - [Sports](research/citations/sports.md)
+   - [Transphobia & Discrimination](research/citations/transphobia.md)
+   - [Twins & Siblings](research/citations/siblings.md)
+   - [Voice](research/citations/voice.md)
+   - [Other](research/citations/other.md)
+
+
+
 
 ## Transition
   - Coming out
