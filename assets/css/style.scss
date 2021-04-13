@@ -9,6 +9,11 @@ body {
     margin: 0px;
 }
 
+/* content */
+.outer {
+    margin-top:70px;
+}
+
 
 /* Navbar container */
 .menu-con {
@@ -41,7 +46,7 @@ body {
     margin: 0 auto;
 }
 
-.menu-btn-select {
+.menu-con-btn {
     font-family: Roboto-Regular;
     font-size: 16px;
     line-height: 60px;
