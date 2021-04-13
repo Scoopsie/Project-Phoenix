@@ -14,7 +14,7 @@
    - [Etiology](research/citations/causes.md)
    - [Fertility](research/citations/fertility.md)
    - [Genetics](research/citations/genetics.md)
-   - 
+   - [Gender Identity](research/citations/identity.md)
 
 ## Transition
   - Coming out
