@@ -172,7 +172,9 @@ nav ul li ul {
   
 }
 
-nav ul li:hover > ul,
+nav ul li:hover > div,
+nav ul li:focus-within > ul,
+nav ul li:hover > div,
 nav ul li:focus-within > ul,
 nav ul li ul:hover,
 nav ul li ul:focus {
