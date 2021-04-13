@@ -18,7 +18,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
  - Books
  - Studies
  - Citations and Papers
-   ### Physical Health
+ 
+   #### Physical Health
    - [Cancer Screening](research/citations/screening.md)
    - [Cancer](research/citations/cancer.md)
    - [Fertility](research/citations/fertility.md)
@@ -28,8 +29,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
    - [Intersex Conditions](research/citations/intersex.md)
    - [Other Medical Conditions](research/citations/other-medical.md)
    - [Twins & Siblings](research/citations/siblings.md)
-   - 
-   ### Mental Health
+   
+   #### Mental Health
    - [Autism](research/citations/autism.md)
    - [Brains](research/citations/brains.md)
    - [Eating Disorders](research/citations/eating-disorder.md)
@@ -37,8 +38,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
    - [Sexuality](research/citations/sexuality.md)
    - [Substance Abuse & Addiction](research/citations/addiction.md)
    - [Suicide](research/citations/suicide.md)
-   - 
-   ### Transition
+   
+   #### Transition
    - [Gender Identity](research/citations/identity.md)
    - [HRT](research/citations/hrt.md)
    - [Minors](research/citations/minors.md)
@@ -46,8 +47,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
    - [Research](research/citations/research.md)
    - [Surgery](research/citations/surgery.md)
    - [Voice](research/citations/voice.md)
-   - 
-   ### Living
+   
+   #### Living
    - [Etiology](research/citations/causes.md)
    - [Healthcare](research/citations/healthcare.md)
    - [Legislation](research/citations/legislation.md)
@@ -57,8 +58,8 @@ Right now, we are still very much in the early stages of gathering and inputing 
    - [Sociodemographics](research/citations/demography.md)
    - [Sports](research/citations/sports.md)
    - [Transphobia & Discrimination](research/citations/transphobia.md)
-   - 
-   ### Other
+   
+   #### Other
    - [Other](research/citations/other.md)
 
 
