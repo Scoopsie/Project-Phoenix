@@ -58,8 +58,8 @@ blockquote {
   margin-top: 0;
   margin-bottom: 16px;
   padding: 0 1em;
-  color: var(--color-text-tertiary);
-  border-left: .25em solid var(--color-markdown-blockquote-border);
+  color: $color-text-tertiary;
+  border-left: .25em solid $color-markdown-blockquote-border;
 }
 
 .logo {
