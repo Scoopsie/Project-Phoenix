@@ -18,7 +18,7 @@ Right now, we are still very much in the early stages of gathering and inputing 
   <li>Good Articles</li>
   <li>Books</li>
   <li>Studies</li>
-  <li>
+  <li class="detail-drop">
     <details>
       <summary>Citations and Papers</summary>
       <blockquote>
