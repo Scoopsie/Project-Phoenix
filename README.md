@@ -32,7 +32,7 @@ Right now, we are still very much in the early stages of gathering and inputing 
               <li><a href="research/citations/genetics.md">Genetics</a></li>
               <li><a href="research/citations/gynaecology.md">Gynaecology</a></li>
               <li><a href="research/citations/hiv.md">HIV</a></li>
-              <li><a href="research/citations/intersex.md">Intersex Conditions</li>
+              <li><a href="research/citations/intersex.md">Intersex Conditions</a></li>
               <li><a href="research/citations/other-medical.md">Other Medical Conditions</a></li>
               <li><a href="research/citations/siblings.md">Twins & Siblings</a></li>
             </ul>
