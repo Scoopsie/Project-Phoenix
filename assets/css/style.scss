@@ -47,17 +47,14 @@ $columns: 12; // number of columns in the grid system
   padding: 1rem;
 }
 
-#main_content_wrap blockquote {
-  padding: 0 1em;
-  color: var(--color-text-tertiary);
-  border-left: .25em solid var(--color-markdown-blockquote-border);
-}
-
 blockquote {
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 16px;
+  padding: 0 1em;
+  color: var(--color-text-tertiary);
+  border-left: .25em solid var(--color-markdown-blockquote-border);
 }
 
 .logo {
