@@ -3,8 +3,13 @@
 
 /* scss variables */
 $color-text-tertiary: #6a737d;
+$color-text-link: #0366d6;
 $color-markdown-blockquote-border: #dfe2e5;
 
+/* Links */
+a {
+  color: $color-text-link;
+}
 
 /* Body */
 body {
