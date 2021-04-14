@@ -23,9 +23,7 @@ Right now, we are still very much in the early stages of gathering and inputing 
       <summary>Citations and Papers</summary>
       <blockquote>
         <details>
-          <summary>
-            Physical Health
-          </summary>
+          <summary>Physical Health</summary>
           <blockquote>
             <ul>
               <li><a href="research/citations/screening.md">Cancer Screening</a></li>
